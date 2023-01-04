@@ -1,0 +1,9 @@
+Este problema es el de la ruta de transporte (VRP). Nos dan algunas restricciones del problema.
+
+¿Tenemos un número limitado de vehículos?, ¿Hay un límite de kilómetros para los vehículos?, ¿Hay que cumplir horarios de reparto? Supuestos: 
+   Disponemos de un único almacén (Madrid de coordenadas 40.23, -3.40), desde donde parten y al cual regresan todos los vehículos tras realizar el reparto. 
+   Por simplicidad, vamos a suponer que no tenemos limitación en el número de vehículos disponibles. 
+   No hay límite de kilometraje para los vehículos. 
+   Todos los vehículos tienen un límite de carga igual a 40, que no puede sobrepasarse. 
+   Cada cliente hace un pedido con un peso concreto y pudiendo ser diferente del resto.
+No existen restricciones espaciales ni temporales
